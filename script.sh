@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "pipeline created"
+echo "pipeline triggered"
