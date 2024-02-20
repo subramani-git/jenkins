@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "pipeline updated now"
+echo "pipeline created"
