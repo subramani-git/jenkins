@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "configured again"
+echo "email configured"
