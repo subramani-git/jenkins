@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "jenkins pipeline creation"
+echo "jenkins pipeline creation "
