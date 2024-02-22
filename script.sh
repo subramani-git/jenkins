@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "email2 "
+echo "jenkins pipeline creation"
