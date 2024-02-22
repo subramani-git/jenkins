@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "configured"
+echo "configured again"
